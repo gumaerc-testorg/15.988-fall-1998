@@ -7,8 +7,13 @@ description: 'Reading assignment. Building a System Dynamics Model is a series o
   define the purpose of the model; define the model boundary and identify key variables;
   describe the behavior or draw the reference modes of the key variables; and diagram
   the basic mechanisms, the feedback loops, of the system.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/1ba2bda320cfc48c71d04cb2cf42409b_building.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/1ba2bda320cfc48c71d04cb2cf42409b_building.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: building.pdf
 uid: 1ba2bda3-20cf-c48c-71d0-4cb2cf42409b

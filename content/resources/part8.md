@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/c64cddf61df3c4f681a456d47aac134f_part8.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c64cddf61df3c4f681a456d47aac134f_part8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: part8.pdf
 uid: c64cddf6-1df3-c4f6-81a4-56d47aac134f

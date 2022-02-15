@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/b7a58aa465a24e7eaade6202d6aa28e3_assn14.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/b7a58aa465a24e7eaade6202d6aa28e3_assn14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn14.pdf
 uid: b7a58aa4-65a2-4e7e-aade-6202d6aa28e3

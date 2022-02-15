@@ -6,8 +6,13 @@ description: Reading assignment. This paper introduces a structure that produces
   The exercises at the end of the paper provide the reader with an opportunity to
   see how knowledge about structure and behavior can be transferred between different
   systems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/e8bd0c07ef2848b39e55fc8ff52dcb88_generic3.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/e8bd0c07ef2848b39e55fc8ff52dcb88_generic3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: generic3.pdf
 uid: e8bd0c07-ef28-48b3-9e55-fc8ff52dcb88

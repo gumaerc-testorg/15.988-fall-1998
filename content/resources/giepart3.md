@@ -7,8 +7,13 @@ description: Reading assignment on combined flows. This paper is the third in a 
   estimate behaviors of models with constant, step, and variable net flows. Also,
   you should be familiar with the terms ?slope? and ?area,? and you should know how
   to calculate them for simple behaviors.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/22da2870ffb5f5175f4b2437fe81845f_giepart3.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/22da2870ffb5f5175f4b2437fe81845f_giepart3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: giepart3.pdf
 uid: 22da2870-ffb5-f517-5f4b-2437fe81845f

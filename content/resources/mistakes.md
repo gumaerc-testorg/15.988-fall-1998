@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Reading assignment on dimensional inconsistency in system models.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/3a4d0cfabaaa7b8feb81b17a884b59e6_mistakes.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/3a4d0cfabaaa7b8feb81b17a884b59e6_mistakes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: mistakes.pdf
 uid: 3a4d0cfa-baaa-7b8f-eb81-b17a884b59e6

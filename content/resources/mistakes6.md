@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Reading assignment on DT errors in system models.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/cfb6b4870a52633147bf763de1bf7b0d_mistakes6.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cfb6b4870a52633147bf763de1bf7b0d_mistakes6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: mistakes6.pdf
 uid: cfb6b487-0a52-6331-47bf-763de1bf7b0d

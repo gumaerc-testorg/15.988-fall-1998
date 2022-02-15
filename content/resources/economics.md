@@ -4,8 +4,13 @@ description: Reading assignment on supply and demand in the framework of system 
   Reviews classical supply and demand, looks at how to model supply and demand using
   system dynamics, and presents a few exercises that will improve understanding of
   supply and demand and help improve system dynamics modeling skills.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/c0478ac5a8d6aa657cd82812fb91ce75_economics.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c0478ac5a8d6aa657cd82812fb91ce75_economics.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: economics.pdf
 uid: c0478ac5-a8d6-aa65-7cd8-2812fb91ce75

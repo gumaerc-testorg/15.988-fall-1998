@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Reading assignment on hidden time constants and growth fractions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-988-system-dynamics-self-study-fall-1998-spring-1999/4d0406baa1c352274a1681da49797d49_mistakes4.pdf
+file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/4d0406baa1c352274a1681da49797d49_mistakes4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: mistakes4.pdf
 uid: 4d0406ba-a1c3-5227-4a16-81da49797d49
