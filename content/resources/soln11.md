@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 78665a7a-0481-4dfc-c166-ac4cab9c35c7
 resourcetype: Document
 title: soln11.pdf
 uid: 8ac44454-33cc-7511-5a2d-a56ab72d1c22

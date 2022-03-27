@@ -17,6 +17,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: modeling1.pdf
 uid: 3601d1fd-4ac1-a55b-6e3f-7eb26b7b083a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: creditcardmodel.pdf
 uid: 100ef9f9-ef58-34ff-11a4-8a67f689c6d8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: genericpositive.pdf
 uid: 0ebb7c6c-5b55-87fb-1e24-712aebe4d1bd
