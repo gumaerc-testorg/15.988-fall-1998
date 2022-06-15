@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c64cddf61df3c4f681a456d47aac134f_part8.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c64cddf61df3c4f681a456d47aac134f_part8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

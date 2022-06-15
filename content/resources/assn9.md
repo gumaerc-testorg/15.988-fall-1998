@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment.
-file: /media/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/a9bfecd7da886fad1684f770d3d8a48a_assn9.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/a9bfecd7da886fad1684f770d3d8a48a_assn9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: assn9.pdf
 uid: a9bfecd7-da88-6fad-1684-f770d3d8a48a
 ---
+Assignment.
+
