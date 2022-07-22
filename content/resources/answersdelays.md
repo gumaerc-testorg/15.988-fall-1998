@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/7e977e753
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: answersdelays.pdf
 uid: 7e977e75-3d90-6a98-4721-6dc3b31767ea
 ---
 Answers to Exercises for Chapter 17: Introduction To Delays from Introduction to Computer Simulation.
-

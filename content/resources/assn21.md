@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/301c924a0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn21.pdf
 uid: 301c924a-0abd-d12b-7faa-97fc70709c45
 ---
 Assignment.
-

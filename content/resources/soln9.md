@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/f67ea0ca7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: soln9.pdf
 uid: f67ea0ca-7e25-2120-77a6-9bc052b4e905
 ---
 Assignment solutions.
-

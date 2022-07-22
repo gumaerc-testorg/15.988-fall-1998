@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c14686381
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: modeling.pdf
 uid: c1468638-1688-f667-7e9b-8bbbce13249f
 ---
 Reading assignment with beginner modeling exercises to teach the reader how to distinguish between stocks and flows.
-

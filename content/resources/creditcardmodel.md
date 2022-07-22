@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/100ef9f9e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: creditcardmodel.pdf
 uid: 100ef9f9-ef58-34ff-11a4-8a67f689c6d8
 ---
 Reading assignment with a tutorial on the credit card model.
-

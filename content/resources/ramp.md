@@ -8,6 +8,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/92bb9602a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 92bb9602-a364-3bde-5539-56978822933c
 ---
 Reading assignment on the use of graphical integration to estimate the behavior of simple systems
 with linearly increasing or decreasing flows.
-

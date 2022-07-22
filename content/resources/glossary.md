@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c8a435c46
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: glossary.pdf
 uid: c8a435c4-649c-b265-aadf-0b8f718c9f9f
 ---
 Glossary of terms used in the course materials.
-

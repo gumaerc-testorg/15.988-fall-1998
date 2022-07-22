@@ -7,6 +7,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cc8b13a63
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: learning2.pdf
 uid: cc8b13a6-3050-2e84-a8ed-763aeb614b08
 ---
 Reading assignment on learning through system dynamics, developing personal skills, outlook and personality, understanding the nature of systems, and achieving the benefits of a systems education.
-

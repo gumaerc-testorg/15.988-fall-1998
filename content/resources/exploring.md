@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/9ff8f09cd
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exploring.pdf
 uid: 9ff8f09c-d17e-29b0-fa91-885f82165353
 ---
 Reading assignment on exploring s-shaped growth.
-

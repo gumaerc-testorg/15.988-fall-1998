@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/4b944c913
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: learning.pdf
 uid: 4b944c91-30cf-9cce-ae05-20907bbd4731
 ---
 Reading assignment on system dynamics and learner-centered-learning in kindergarten through 12th grade education.
-

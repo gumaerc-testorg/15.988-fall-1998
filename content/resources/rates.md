@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/aaf48817e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rates.pdf
 uid: aaf48817-e0de-e947-aa81-8dd322b45e59
 ---
 Reading assignment on graphical integration methods for systems with exogenous rates.
-

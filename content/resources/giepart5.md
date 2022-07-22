@@ -7,6 +7,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/40f1babab
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: giepart5.pdf
 uid: 40f1baba-b76c-ca7d-3bcc-72a981ce8090
 ---
 Reading assignment on qualitative graphical integration, the process of estimating the behavior of a stock by looking at graphs of the flows into and out of the stock.
-

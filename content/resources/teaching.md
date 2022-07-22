@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/07c065bea
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: teaching.pdf
 uid: 07c065be-a0b7-5b6a-e197-8d365f073f82
 ---
 This resource contains the information about teaching system dynamics of Looking at epidemics in this course.
-

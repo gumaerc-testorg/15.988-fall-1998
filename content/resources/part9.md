@@ -7,6 +7,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/e6372c60b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: part9.pdf
 uid: e6372c60-bbb7-e720-f5fd-798badca4e82
 ---
 This resource contains information related to road maps 9, improving modelling skills, generic structures, graphical integration exercises and computer modules.
-

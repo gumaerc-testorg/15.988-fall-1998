@@ -7,6 +7,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/1f2c62f8b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: constant.pdf
 uid: 1f2c62f8-ba49-6c0c-d122-44a2d277acd8
 ---
 Reading assignment. This paper provides guidelines to mentally simulate first-order (single-stock) feedback systems containing constant flows into or out of the stock.
-

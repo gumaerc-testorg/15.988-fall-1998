@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/3ef1c7e7f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: oscillating.pdf
 uid: 3ef1c7e7-ff55-5b4b-840a-8fb9d02529fc
 ---
 Reading assignment on generic structures in oscillating systems.
-

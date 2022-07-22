@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cc6338ec4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fish.pdf
 uid: cc6338ec-4f6f-8e53-b2f5-6f406b6a4908
 ---
 Reading assignment on building the Fish Banks Model and Renewable Resource Depletion.
-

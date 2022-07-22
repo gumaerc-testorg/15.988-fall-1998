@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/f94fa8544
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: feedback.pdf
 uid: f94fa854-452d-d69f-ff5c-a7554dfb69f8
 ---
 Reading assignment with an introduction to feedback.
-

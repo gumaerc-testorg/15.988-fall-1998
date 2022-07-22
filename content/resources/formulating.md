@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/e8f4107ce
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: formulating.pdf
 uid: e8f4107c-eae7-c20b-7b2b-ad399687efe5
 ---
 Reading assignment on formulating models of simple systems using Vensim PLE version 3.0B.
-

@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/0ebb7c6c5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: genericpositive.pdf
 uid: 0ebb7c6c-5b55-87fb-1e24-712aebe4d1bd
 ---
 Reading assignment on generic structures and first-order linear positive feedback.
-

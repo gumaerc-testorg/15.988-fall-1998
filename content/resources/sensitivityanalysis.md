@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/abda6cf0e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sensitivityanalysis.pdf
 uid: abda6cf0-e509-77bf-369a-53fe6c4deb0a
 ---
 Reading assignment with an introduction to sensitivity analysis.
-

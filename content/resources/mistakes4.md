@@ -5,6 +5,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/4d0406baa
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mistakes4.pdf
 uid: 4d0406ba-a1c3-5227-4a16-81da49797d49
 ---
 Reading assignment on hidden time constants and growth fractions.
-

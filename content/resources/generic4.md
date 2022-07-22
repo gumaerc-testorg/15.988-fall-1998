@@ -6,6 +6,7 @@ file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/40e75afac
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: generic4.pdf
 uid: 40e75afa-c11a-e7a5-8696-f4a23a8b6041
 ---
 Reading assignment on exponential smoothing, basic structures that appear frequently when studying systems, and information smoothing.
-
