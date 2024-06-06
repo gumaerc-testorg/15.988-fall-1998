@@ -4,6 +4,7 @@ description: Reading assignment on learning through system dynamics, developing 
   skills, outlook and personality, understanding the nature of systems, and achieving
   the benefits of a systems education.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cc8b13a630502e84a8ed763aeb614b08_learning2.pdf
+file_size: 61802
 file_type: application/pdf
 learning_resource_types:
 - Readings

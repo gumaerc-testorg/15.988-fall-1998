@@ -4,6 +4,7 @@ description: Reading assignment. This document outlines the process for transfer
   Vensim PLE objects into a word processor, as well as some other guidelines and settings
   to use.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/058edce6c36eab3899c379a173b1408a_vensim3.pdf
+file_size: 32272
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: Reading assignment on the the structural features of a damped oscillations
   system that lead to underdamped, overdamped, and critically damped behavior.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/597d177ed0f2e73ef317f2921fa14148_oscillations.pdf
+file_size: 111989
 file_type: application/pdf
 learning_resource_types:
 - Readings

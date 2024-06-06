@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading assignment on mental simulation of simple positive feedback.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/73d648da97439c8494a38b49bde0ed24_positive.pdf
+file_size: 68676
 file_type: application/pdf
 learning_resource_types:
 - Readings
