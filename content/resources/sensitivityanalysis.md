@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading assignment with an introduction to sensitivity analysis.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/abda6cf0e50977bf369a53fe6c4deb0a_sensitivityanalysis.pdf
+file_size: 596278
 file_type: application/pdf
 learning_resource_types:
 - Readings

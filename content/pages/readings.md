@@ -9,9 +9,9 @@ title: Readings
 uid: e5399b4a-7510-d085-aeed-66c8e9603399
 ---
 
-The following documents include tutorials with step-by-step instructions for using a previous version of the STELLA software. Although the documents have not been updated to reflect the functionality in newer versions of STELLA, the basic ideas presented are still relevant. If you are interested in the current version of STELLA and other related resources, visit {{% resource_link "7bfebb81-fc52-4320-9a4a-8359c8557c75" "isee systems" %}}.
+The following documents include tutorials with step-by-step instructions for using a previous version of the STELLA software. Although the documents have not been updated to reflect the functionality in newer versions of STELLA, the basic ideas presented are still relevant. If you are interested in the current version of STELLA and other related resources, visit [isee systems](http://www.iseesystems.com/).
 
-The Vensim PLE software is available for free at the {{% resource_link "bbc253e1-7342-4265-9bb1-30feba852529" "Ventana Systems website" %}}.
+The Vensim PLE software is available for free at the [Ventana Systems website](http://vensim.com/vensim-personal-learning-edition/).
 
 These documents also contain icons and screenshots from the STELLA and Vensim software programs. These images are courtesy of isee systems and Ventana Systems, Inc. and are used with permission.
 
