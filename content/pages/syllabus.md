@@ -16,7 +16,7 @@ Developed for self study, to be completed in 30 weeks
 Course Description
 ------------------
 
-This course site includes two sets of resources that are intended as introductions to the field of system dynamics. System dynamics has been pioneered at the MIT Sloan School since 1956, and it is now a world-wide movement with courses taught in many universities and countries. The System Dynamics Society publishes the "System Dynamics Review" and more information can be found at {{% resource_link "34daca25-5200-45c5-a54e-d6a1973c9e35" "Society Publications" %}}.
+This course site includes two sets of resources that are intended as introductions to the field of system dynamics. System dynamics has been pioneered at the MIT Sloan School since 1956, and it is now a world-wide movement with courses taught in many universities and countries. The System Dynamics Society publishes the "System Dynamics Review" and more information can be found at [Society Publications](https://www.systemdynamics.org/publications).
 
 The collection of documents in the Readings section, entitled "Road Maps," is a self-study introduction to system dynamics. It consists of papers to study and computer exercises. The computer exercises are presented for use with the STELLA or Vensim software applications. We recommend the Vensim version as being more appropriate if the participant expects to go further with the subject in the future. If "Road Maps" is taken seriously and all the papers are carefully studied and the computer exercises are fully done, the series may require upward of 200 hours for completion.
 

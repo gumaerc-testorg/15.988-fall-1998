@@ -4,6 +4,7 @@ description: Reading assignment on qualitative graphical integration, the proces
   of estimating the behavior of a stock by looking at graphs of the flows into and
   out of the stock.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/40f1babab76cca7d3bcc72a981ce8090_giepart5.pdf
+file_size: 171837
 file_type: application/pdf
 learning_resource_types:
 - Readings

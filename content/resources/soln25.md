@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment solutions.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/10d9f35abcc773614b330efeeda1403f_soln25.pdf
+file_size: 205972
 file_type: application/pdf
 learning_resource_types:
 - Assignments
