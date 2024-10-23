@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on system dynamics and learner-centered-learning in
   kindergarten through 12th grade education.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/4b944c9130cf9cceae0520907bbd4731_learning.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/4b944c9130cf9cceae0520907bbd4731_learning.pdf
 file_size: 71828
 file_type: application/pdf
 learning_resource_types:

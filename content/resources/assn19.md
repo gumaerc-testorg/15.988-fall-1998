@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c62b20a15e837fdb19319a9fffe96eca_assn19.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c62b20a15e837fdb19319a9fffe96eca_assn19.pdf
 file_size: 33004
 file_type: application/pdf
 learning_resource_types:

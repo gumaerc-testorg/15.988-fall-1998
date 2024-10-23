@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on system dynamics and its use as a foundation underlying
   education in kindergarten through 12th grade.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/f75f866d3f189f3d6a9fd9cdab07660a_teachers.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/f75f866d3f189f3d6a9fd9cdab07660a_teachers.pdf
 file_size: 179978
 file_type: application/pdf
 learning_resource_types:
