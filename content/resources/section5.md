@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on mental simulation of combining feedback in first-order
   systems.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/04dc32ae0d486d92d43d43a9af6c1b72_section5.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/04dc32ae0d486d92d43d43a9af6c1b72_section5.pdf
 file_size: 203071
 file_type: application/pdf
 learning_resource_types:

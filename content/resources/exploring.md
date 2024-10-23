@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment on exploring s-shaped growth.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/9ff8f09cd17e29b0fa91885f82165353_exploring.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/9ff8f09cd17e29b0fa91885f82165353_exploring.pdf
 file_size: 372736
 file_type: application/pdf
 learning_resource_types:
