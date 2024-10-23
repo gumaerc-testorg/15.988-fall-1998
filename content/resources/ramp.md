@@ -4,7 +4,7 @@ description: 'Reading assignment on the use of graphical integration to estimate
   behavior of simple systems
 
   with linearly increasing or decreasing flows.'
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/92bb9602a3643bde553956978822933c_ramp.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/92bb9602a3643bde553956978822933c_ramp.pdf
 file_size: 143832
 file_type: application/pdf
 learning_resource_types:

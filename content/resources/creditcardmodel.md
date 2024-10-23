@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment with a tutorial on the credit card model.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/100ef9f9ef5834ff11a48a67f689c6d8_creditcardmodel.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/100ef9f9ef5834ff11a48a67f689c6d8_creditcardmodel.pdf
 file_size: 127537
 file_type: application/pdf
 learning_resource_types:

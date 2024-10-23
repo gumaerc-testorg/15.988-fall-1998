@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Glossary of terms used in the course materials.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c8a435c4649cb265aadf0b8f718c9f9f_glossary.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c8a435c4649cb265aadf0b8f718c9f9f_glossary.pdf
 file_size: 34055
 file_type: application/pdf
 learning_resource_types:
