@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment. Checklist for determining system dynamics model correctness.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/950d5b0ba917063685e3e9bc7d328844_checklist.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/950d5b0ba917063685e3e9bc7d328844_checklist.pdf
 file_size: 18263
 file_type: application/pdf
 learning_resource_types:

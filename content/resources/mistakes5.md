@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on avoiding mistakes and misunderstandings when using
   time constants and decay fractions in system models.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/75cb2f8fa93ed571b5b85372353ac397_mistakes5.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/75cb2f8fa93ed571b5b85372353ac397_mistakes5.pdf
 file_size: 30793
 file_type: application/pdf
 learning_resource_types:

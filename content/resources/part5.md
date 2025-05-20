@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c4a3a715c7007503848074eb2adcee8b_part5.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c4a3a715c7007503848074eb2adcee8b_part5.pdf
 file_size: 115535
 file_type: application/pdf
 learning_resource_types:
