@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment with an overview of the course.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/b8da5d68ca3501f6b72d9bb396760cdf_syllabus.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/b8da5d68ca3501f6b72d9bb396760cdf_syllabus.pdf
 file_size: 62211
 file_type: application/pdf
 learning_resource_types: []

@@ -3,7 +3,7 @@ content_type: resource
 description: Reading assignment with an introduction to system dynamics and learner-centered
   learning for educators and others interested in learning the basics of system dynamics
   through computer modeling.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/355a4df6fb57b8065ee64f126d5f44d5_step.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/355a4df6fb57b8065ee64f126d5f44d5_step.pdf
 file_size: 375066
 file_type: application/pdf
 learning_resource_types:

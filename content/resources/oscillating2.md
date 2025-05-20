@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on sustained oscillation, structural criteria for
   oscillation, and causes of oscillation.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/ed0b689fec84b1384f0b4a60589e6422_oscillating2.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/ed0b689fec84b1384f0b4a60589e6422_oscillating2.pdf
 file_size: 233081
 file_type: application/pdf
 learning_resource_types:

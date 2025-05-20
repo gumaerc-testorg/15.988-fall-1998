@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on example cases where the relationship between two
   variables is not linear, and table functions can be used to represent the relationship.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/2fdc37e4c8f317eed6fb2476be809a35_function.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/2fdc37e4c8f317eed6fb2476be809a35_function.pdf
 file_size: 148602
 file_type: application/pdf
 learning_resource_types:

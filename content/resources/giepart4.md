@@ -7,7 +7,7 @@ description: 'Reading assignment on reverse graphical integration, a method whic
   paper covers two simple ways to determine information about a net flow which can
   be used to draw its graph. The reader should be familiar with the concepts covered
   in Graphical Integration Exercises Part Three: Combined Flows.'
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/062ace719890813b415d08b37fd306f4_giepart4.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/062ace719890813b415d08b37fd306f4_giepart4.pdf
 file_size: 173262
 file_type: application/pdf
 learning_resource_types:

@@ -10,7 +10,7 @@ description: Reading assignment. This paper is the first in a series of papers d
   or model building. The reader is expected to have prior experience with both. Solutions
   to all the exercises are included at the end. The modeling exercises are presented
   approximately in order of difficulty, but need not be done in this sequence.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/3601d1fd4ac1a55b6e3f7eb26b7b083a_modeling1.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/3601d1fd4ac1a55b6e3f7eb26b7b083a_modeling1.pdf
 file_size: 247326
 file_type: application/pdf
 learning_resource_types:
