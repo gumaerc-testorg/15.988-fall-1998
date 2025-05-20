@@ -8,7 +8,7 @@ description: Reading assignment. This paper is the second in a continuing series
   asks the reader to perform mental simulations on a pre-built model, and to estimate
   the model behavior under different conditions. The reader is expected to have prior
   experience with system dynamics, model building, and mental simulation.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/7ac2f07c6b562211becc8afb0102cf88_modeling2.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/7ac2f07c6b562211becc8afb0102cf88_modeling2.pdf
 file_size: 290115
 file_type: application/pdf
 learning_resource_types:

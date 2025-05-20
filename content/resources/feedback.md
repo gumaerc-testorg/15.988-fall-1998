@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment with an introduction to feedback.
-file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/f94fa854452dd69fff5ca7554dfb69f8_feedback.pdf
+file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/f94fa854452dd69fff5ca7554dfb69f8_feedback.pdf
 file_size: 166748
 file_type: application/pdf
 learning_resource_types:
