@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on exponential smoothing, basic structures that appear
   frequently when studying systems, and information smoothing.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/40e75afac11ae7a58696f4a23a8b6041_generic4.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/40e75afac11ae7a58696f4a23a8b6041_generic4.pdf
 file_size: 95699
 file_type: application/pdf
 learning_resource_types:

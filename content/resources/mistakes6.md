@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment on DT errors in system models.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cfb6b4870a52633147bf763de1bf7b0d_mistakes6.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cfb6b4870a52633147bf763de1bf7b0d_mistakes6.pdf
 file_size: 90243
 file_type: application/pdf
 learning_resource_types:

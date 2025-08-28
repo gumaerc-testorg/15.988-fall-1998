@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to road maps 9, improving
   modelling skills, generic structures, graphical integration exercises and computer
   modules.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/e6372c60bbb7e720f5fd798badca4e82_part9.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/e6372c60bbb7e720f5fd798badca4e82_part9.pdf
 file_size: 80492
 file_type: application/pdf
 learning_resource_types:

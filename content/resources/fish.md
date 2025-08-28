@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on building the Fish Banks Model and Renewable Resource
   Depletion.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cc6338ec4f6f8e53b2f56f406b6a4908_fish.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cc6338ec4f6f8e53b2f56f406b6a4908_fish.pdf
 file_size: 326461
 file_type: application/pdf
 learning_resource_types:
