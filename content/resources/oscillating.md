@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment on generic structures in oscillating systems.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/3ef1c7e7ff555b4b840a8fb9d02529fc_oscillating.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/3ef1c7e7ff555b4b840a8fb9d02529fc_oscillating.pdf
 file_size: 171877
 file_type: application/pdf
 learning_resource_types:

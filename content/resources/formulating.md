@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading assignment on formulating models of simple systems using Vensim
   PLE version 3.0B.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/e8f4107ceae7c20b7b2bad399687efe5_formulating.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/e8f4107ceae7c20b7b2bad399687efe5_formulating.pdf
 file_size: 982787
 file_type: application/pdf
 learning_resource_types:

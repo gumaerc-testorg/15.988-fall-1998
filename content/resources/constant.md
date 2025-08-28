@@ -3,7 +3,7 @@ content_type: resource
 description: Reading assignment. This paper provides guidelines to mentally simulate
   first-order (single-stock) feedback systems containing constant flows into or out
   of the stock.
-file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/1f2c62f8ba496c0cd12244a2d277acd8_constant.pdf
+file: /ol-ocw-studio-app/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/1f2c62f8ba496c0cd12244a2d277acd8_constant.pdf
 file_size: 145343
 file_type: application/pdf
 learning_resource_types:
